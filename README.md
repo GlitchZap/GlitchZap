@@ -74,7 +74,6 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactjs/reactjs-plain-wordmark.svg" alt="css" title="ReactJS"/>
     </kbd>
     <br>
     <br>
